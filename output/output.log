@@ -1,0 +1,8 @@
+[INFO ](../main/main.cc): Starting threads
+[INFO ](../main/main.cc): All threads started
+[INFO ](../main/input/input.cc): Begin
+[INPUT](../main/input/input.cc): "hello"
+[INPUT](../main/input/input.cc): "exit"
+[INPUT](../main/input/input.cc): "exit"
+[INFO ](../main/main.cc): SHUTDOWN
+[INFO ](../main/input/input.cc): Killing
