@@ -8,7 +8,7 @@
 #define WARN  "WARN "
 #define ERROR "ERROR"
 #define FATAL "FATAL"
-#define BUFFER_SIZE 10
+#define BUFFER_SIZE 5
 
 #include <iostream>
 #include <string.h>

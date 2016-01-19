@@ -12,8 +12,8 @@ class fileio {
   public:
     static void close(std::string loc);
     static bool isOpen(std::string loc);
-    static void write(std::string loc, std::string msg);
-    static void write(std::string loc, const char* msg);
+    static void write(std::string loc, std::string msg, bool append = false);
+    static void write(std::string loc, const char* msg, bool append = false);
     static const char* readLine(std::string loc, uint32_t linenum);
 };
 

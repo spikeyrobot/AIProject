@@ -4,7 +4,7 @@ using namespace aimain;
 using namespace std;
 
 int main(void) {
-
+  output::LOG(__FILE__, INFO, "\n\nAIMAIN INIT");
   output::LOG(__FILE__, INFO, "Starting threads");
     
   std::thread input_thread(&input::waitForInput);
@@ -15,14 +15,15 @@ int main(void) {
   while(true) {
     if(input::isAvailable()) {
       std::string recieved = input::getNext();
-      if(recieved == "exit" || recieved == "\nexit"){
+      if(strcmp(recieved.c_str(), "exit") == 0){
         output::LOG(__FILE__, INFO, "SHUTDOWN");
         input::killProcess();
         break;
+      } else {
+        // conscious::findSubject(recieved.c_str());
       }
     }
   }
-  output::close("output.log");
   /*output::LOG(__func__, INFO, "Joining threads");
 
   const long double t = time(0);
@@ -37,6 +38,7 @@ int main(void) {
   } while(true);
 
   output::LOG(__func__, INFO, "All threads joined");*/
-
+  output::LOG(__FILE__, INFO, "DONE");
+  output::close("output.log");
   return 0;
 }

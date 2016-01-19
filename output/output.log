@@ -1,8 +1,586 @@
+[INPUT](../main/input/input.cc): "exit"
+[INFO ](../main/main.cc): Starting threads
+[INFO ](../main/main.cc): All threads started
+[INFO ](../main/main.cc): All threads started
+[INFO ](../main/input/input.cc): Begin
+[INPUT](../main/input/input.cc): "test"
+[INPUT](../main/input/input.cc): "hellow"
+[INPUT](../main/input/input.cc): "world"
+[INPUT](../main/input/input.cc): "exit"
+[INFO ](../main/main.cc): SHUTDOWN
+[INFO ](../main/input/input.cc): Killing
+[INFO ](../main/main.cc): Starting threads
+[INFO ](../main/main.cc): All threads started
+[INFO ](../main/main.cc): All threads started
+[INFO ](../main/input/input.cc): Begin
+[INPUT](../main/input/input.cc): "test"
+[INPUT](../main/input/input.cc): "hello"
+[INPUT](../main/input/input.cc): "testing124"
+[INPUT](../main/input/input.cc): "hello world"
+[INPUT](../main/input/input.cc): "exit"
+[INPUT](../main/input/input.cc): "exit   "
+[INPUT](../main/input/input.cc): " exit"
+[INFO ](../main/main.cc): Starting threads
+[INFO ](../main/main.cc): All threads started
+[INFO ](../main/main.cc): All threads started
+[INFO ](../main/input/input.cc): Begin
+[INPUT](../main/input/input.cc): "hf "
+[INPUT](../main/input/input.cc): "asfldas"
+[INPUT](../main/input/input.cc): "f kl"
+[INPUT](../main/input/input.cc): "a fk dsafkdl;s akf"
+[INPUT](../main/input/input.cc): "d sa"
+[INPUT](../main/input/input.cc): "f d"
+[INPUT](../main/input/input.cc): "sa lfadsfads"
 [INFO ](../main/main.cc): Starting threads
 [INFO ](../main/main.cc): All threads started
 [INFO ](../main/input/input.cc): Begin
-[INPUT](../main/input/input.cc): "hello"
+[INPUT](../main/input/input.cc): "kl;"
+[INPUT](../main/input/input.cc): "fkl;d"
+[INPUT](../main/input/input.cc): "safk"
+[INPUT](../main/input/input.cc): "dsakfl;dsaklf;"
+[INPUT](../main/input/input.cc): "dskal"
+[INPUT](../main/input/input.cc): "fdklsa"
+[INPUT](../main/input/input.cc): "fkdl"
+[INFO ](../main/main.cc): Starting threads
+[INFO ](../main/main.cc): All threads started
+[INFO ](../main/input/input.cc): Begin
+[INPUT](../main/input/input.cc): "tes"
+[INPUT](../main/input/input.cc): "hi"
+[INPUT](../main/input/input.cc): "t es t ing 12 3"
+[INPUT](../main/input/input.cc): "fjdkalfjdasj"
+[INPUT](../main/input/input.cc): "fdj"
+[INPUT](../main/input/input.cc): "safj"
+[INPUT](../main/input/input.cc): "dajf"
+[INFO ](../main/main.cc): Starting threads
+[INFO ](../main/main.cc): All threads started
+[INFO ](../main/main.cc): All threads started
+[INFO ](../main/input/input.cc): Begin
+[INPUT](../main/input/input.cc): "test"
+[INPUT](../main/input/input.cc): "1"
+[INFO ](../main/main.cc): Starting threads
+[INFO ](../main/main.cc): All threads started
+[INFO ](../main/input/input.cc): Begin
+[INPUT](../main/input/input.cc): "test"
+[INPUT](../main/input/input.cc): "1"
+[INFO ](../main/main.cc): Starting threads
+[INFO ](../main/main.cc): All threads started
+[INFO ](../main/input/input.cc): Begin
+[INPUT](../main/input/input.cc): "exit"
+[INFO ](../main/main.cc): SHUTDOWN
+[INFO ](../main/main.cc): Starting threads
+[INFO ](../main/main.cc): All threads started
+[INFO ](../main/input/input.cc): Begin
+[INPUT](../main/input/input.cc): "test"
+[INPUT](../main/input/input.cc): "hi"
+[INFO ](../main/main.cc): Starting threads
+[INFO ](../main/main.cc): All threads started
+[INFO ](../main/main.cc): All threads started
+[INFO ](../main/main.cc): Starting threads
+[INFO ](../main/main.cc): All threads started
+[INFO ](../main/input/input.cc): Begin
+[INPUT](../main/input/input.cc): "1"
+[INPUT](../main/input/input.cc): "2"
+[INFO ](../main/main.cc): Starting threads
+[INFO ](../main/main.cc): All threads started
+[INFO ](../main/main.cc): All threads started
+[INFO ](../main/main.cc): Starting threads
+[INFO ](../main/main.cc): All threads started
+[INFO ](../main/main.cc): Starting threads
+[INFO ](../main/main.cc): All threads started
+[INFO ](../main/main.cc): Starting threads
+[INFO ](../main/main.cc): All threads started
+[INFO ](../main/input/input.cc): Begin
+[INPUT](../main/input/input.cc): "1"
+[INPUT](../main/input/input.cc): "2"
+[INFO ](../main/main.cc): Starting threads
+[INFO ](../main/main.cc): All threads started
+[INFO ](../main/input/input.cc): Begin
+[INPUT](../main/input/input.cc): "1"
+[INPUT](../main/input/input.cc): "2"
+[INFO ](../main/main.cc): Starting threads
+[INFO ](../main/main.cc): All threads started
+[INFO ](../main/main.cc): All threads started
+[INFO ](../main/main.cc): Starting threads
+[INFO ](../main/main.cc): All threads started
+[INFO ](../main/main.cc): All threads started
+[INFO ](../main/main.cc): Starting threads
+[INFO ](../main/main.cc): All threads started
+[INFO ](../main/input/input.cc): Begin
+[INPUT](../main/input/input.cc): "1"
+[INPUT](../main/input/input.cc): "2"
+[INFO ](../main/main.cc): Starting threads
+[INFO ](../main/main.cc): All threads started
+[INFO ](../main/input/input.cc): Begin
+[INPUT](../main/input/input.cc): "1"
+[INPUT](../main/input/input.cc): "2"
+[INPUT](../main/input/input.cc): "3"
+[INPUT](../main/input/input.cc): "4"
+[INPUT](../main/input/input.cc): "5"
+[INPUT](../main/input/input.cc): "6"
+[INPUT](../main/input/input.cc): "7"
+[INPUT](../main/input/input.cc): "8"
+[INPUT](../main/input/input.cc): "9"
+[INPUT](../main/input/input.cc): "10"
+[INPUT](../main/input/input.cc): "11"
+[INPUT](../main/input/input.cc): "12"
+[INPUT](../main/input/input.cc): "1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111"
+[INFO ](../main/main.cc): Starting threads
+[INFO ](../main/main.cc): All threads started
+[INFO ](../main/input/input.cc): Begin
+[INPUT](../main/input/input.cc): "test"
+[INPUT](../main/input/input.cc): "1"
+[INPUT](../main/input/input.cc): "2"
+[INPUT](../main/input/input.cc): "3"
+[INPUT](../main/input/input.cc): "4"
+[INPUT](../main/input/input.cc): "5"
 [INPUT](../main/input/input.cc): "exit"
 [INPUT](../main/input/input.cc): "exit"
 [INFO ](../main/main.cc): SHUTDOWN
 [INFO ](../main/input/input.cc): Killing
+[INFO ](../main/main.cc): Starting threads
+[INFO ](../main/main.cc): All threads started
+[INFO ](../main/input/input.cc): Begin
+[INPUT](../main/input/input.cc): ""
+[INPUT](../main/input/input.cc): ""
+[INPUT](../main/input/input.cc): ""
+[INPUT](../main/input/input.cc): ""
+[INPUT](../main/input/input.cc): ""
+[INPUT](../main/input/input.cc): ""
+[INPUT](../main/input/input.cc): ""
+[INPUT](../main/input/input.cc): ""
+[INPUT](../main/input/input.cc): ""
+[INPUT](../main/input/input.cc): ""
+[INPUT](../main/input/input.cc): "["
+[INPUT](../main/input/input.cc): ""
+[INPUT](../main/input/input.cc): "["
+[INPUT](../main/input/input.cc): "["
+[INPUT](../main/input/input.cc): "["
+[INPUT](../main/input/input.cc): "["
+[INPUT](../main/input/input.cc): "[[[[[[["
+[INPUT](../main/input/input.cc): ""
+[INFO ](../main/main.cc): Starting threads
+[INFO ](../main/main.cc): All threads started
+[INFO ](../main/input/input.cc): Begin
+[INPUT](../main/input/input.cc): "1"
+[INPUT](../main/input/input.cc): "2"
+[INPUT](../main/input/input.cc): "3"
+[INPUT](../main/input/input.cc): "4"
+[INPUT](../main/input/input.cc): "exit"
+[INPUT](../main/input/input.cc): "exit"
+[INPUT](../main/input/input.cc): "exit"
+[INPUT](../main/input/input.cc): "exit"
+[INFO ](../main/main.cc): SHUTDOWN
+[INFO ](../main/input/input.cc): Killing
+[INFO ](../main/main.cc): Starting threads
+[INFO ](../main/main.cc): All threads started
+[INFO ](../main/input/input.cc): Begin
+[INPUT](../main/input/input.cc): "1"
+[INPUT](../main/input/input.cc): "2"
+[INPUT](../main/input/input.cc): "3"
+[INPUT](../main/input/input.cc): "4"
+[INPUT](../main/input/input.cc): "exit"
+[INPUT](../main/input/input.cc): "exit"
+[INPUT](../main/input/input.cc): "exit"
+[INFO ](../main/main.cc): Starting threads
+[INFO ](../main/main.cc): All threads started
+[INFO ](../main/input/input.cc): Begin
+[INPUT](../main/input/input.cc): "1"
+[INPUT](../main/input/input.cc): "2"
+[INPUT](../main/input/input.cc): "3"
+[INPUT](../main/input/input.cc): "4"
+[INPUT](../main/input/input.cc): "5"
+[INPUT](../main/input/input.cc): "6"
+[INPUT](../main/input/input.cc): "exit[A"
+[INPUT](../main/input/input.cc): "[A[A[A"
+[INFO ](../main/main.cc): Starting threads
+[INFO ](../main/main.cc): All threads started
+[INFO ](../main/input/input.cc): Begin
+[WARN ](../main/input/input.cc): put.cc
+[WARN ](../main/input/input.cc): uf
+[WARN ](../main/input/input.cc): R2 
+[WARN ](../main/input/input.cc): put.cc
+[WARN ](../main/input/input.cc): uf
+[WARN ](../main/input/input.cc): R2 
+[WARN ](../main/input/input.cc): put.cc
+[WARN ](../main/input/input.cc): uf
+[WARN ](../main/input/input.cc): R2 
+[INPUT](../main/input/input.cc): ""
+[WARN ](../main/input/input.cc): put.cc
+[WARN ](../main/input/input.cc): uf
+[WARN ](../main/input/input.cc): R2 
+[INPUT](../main/input/input.cc): ""
+[INPUT](../main/input/input.cc): "exit"
+[INPUT](../main/input/input.cc): "exit"
+[INFO ](../main/main.cc): SHUTDOWN
+[INFO ](../main/input/input.cc): Killing
+[INFO ](../main/main.cc): Starting threads
+[INFO ](../main/main.cc): All threads started
+[INFO ](../main/input/input.cc): Begin
+[DEBUG](../main/main.cc): null
+[INPUT](../main/input/input.cc): "1"
+[INFO ](../main/main.cc): Starting threads
+[INFO ](../main/main.cc): All threads started
+[INFO ](../main/input/input.cc): Begin
+[DEBUG](../main/main.cc): null
+[DEBUG](../main/main.cc): null
+[INFO ](../main/main.cc): Starting threads
+[INFO ](../main/main.cc): All threads started
+[INFO ](../main/input/input.cc): Begin
+[INPUT](../main/input/input.cc): "test"
+[INPUT](../main/input/input.cc): "test"
+[INFO ](../main/main.cc): Starting threads
+[INFO ](../main/main.cc): All threads started
+[INFO ](../main/input/input.cc): Begin
+[INPUT](../main/input/input.cc): "test"
+[DEBUG](../main/main.cc): null
+[INPUT](../main/input/input.cc): "hello"
+[DEBUG](../main/main.cc): null
+[INPUT](../main/input/input.cc): "hi"
+[INPUT](../main/input/input.cc): "hi"
+[INFO ](../main/main.cc): AIMAIN INIT
+
+
+[INFO ](../main/main.cc): Starting threads
+[INFO ](../main/main.cc): All threads started
+[INFO ](../main/input/input.cc): Begin
+[IDEBUG](../main/main.cc): null
+[IDEBUG](../main/main.cc): null
+[INPUT](../main/input/input.cc): "hi"
+[INPUT](../main/input/input.cc): "hi"
+[INFO ](../main/main.cc): AIMAIN INIT
+
+
+[INFO ](../main/main.cc): Starting threads
+[INFO ](../main/main.cc): All threads started
+[INFO ](../main/main.cc): All threads started
+[INFO ](../main/input/input.cc): Begin
+[INPUT](../main/input/input.cc): "test"
+[DEBUG](../main/main.cc): null
+[INPUT](../main/input/input.cc): "1"
+[DEBUG](../main/main.cc): null
+[INPUT](../main/input/input.cc): "2"
+[DEBUG](../main/main.cc): null
+[INPUT](../main/input/input.cc): "3"
+[DEBUG](../main/main.cc): null
+[INPUT](../main/input/input.cc): "4"
+[DEBUG](../main/main.cc): null
+[INPUT](../main/input/input.cc): "5"
+[DEBUG](../main/main.cc): null
+[INPUT](../main/input/input.cc): "6"
+[DEBUG](../main/main.cc): null
+[INPUT](../main/input/input.cc): "7"
+[DEBUG](../main/main.cc): null
+[INPUT](../main/input/input.cc): "8"
+[DEBUG](../main/main.cc): null
+[INPUT](../main/input/input.cc): "9"
+[DEBUG](../main/main.cc): null
+[INPUT](../main/input/input.cc): "0"
+[DEBUG](../main/main.cc): null
+[INPUT](../main/input/input.cc): "1234567890"
+[DEBUG](../main/main.cc): null
+[INPUT](../main/input/input.cc): "hello world"
+[DEBUG](../main/main.cc): null
+[INPUT](../main/input/input.cc): "testing"
+[DEBUG](../main/main.cc): null
+[INPUT](../main/input/input.cc): "123"
+[DEBUG](../main/main.cc): null
+[INPUT](../main/input/input.cc): "abc"
+[INPUT](../main/input/input.cc): "abc"
+[INFO ](../main/main.cc): AIMAIN INIT
+
+
+[INFO ](../main/main.cc): Starting threads
+[INFO ](../main/main.cc): All threads started
+[INFO ](../main/input/input.cc): Begin
+[INPUT](../main/input/input.cc): "test"
+ DEBUG](../main/main.cc): null
+[INPUT](../main/input/input.cc): "test"
+ DEBUG](../main/main.cc): null
+[INFO ](../main/main.cc): AIMAIN INIT
+
+
+[INFO ](../main/main.cc): Starting threads
+[INFO ](../main/main.cc): All threads started
+[INFO ](../main/input/input.cc): Begin
+[INPUT](../main/input/input.cc): "test"
+[INPUT](../main/input/input.cc): "test"
+[INFO ](../main/main.cc): AIMAIN INIT
+
+
+[INFO ](../main/main.cc): Starting threads
+[INFO ](../main/main.cc): All threads started
+[INFO ](../main/input/input.cc): Begin
+[INPUT](../main/input/input.cc): "test"
+[[INPUT](../main/input/input.cc): "test"
+[[INFO ](../main/main.cc): AIMAIN INIT
+[INFO ](../main/main.cc): Starting threads
+[INFO ](../main/main.cc): All threads started
+[INFO ](../main/input/input.cc): Begin
+[ INPUT](../main/input/input.cc): "test"
+                              [ INPUT](../main/input/input.cc): "test"
+                              [INFO ](../main/main.cc): AIMAIN INIT
+[INFO ](../main/main.cc): Starting threads
+[INFO ](../main/main.cc): All threads started
+[INFO ](../main/input/input.cc): Begin
+[INPUT](../main/input/input.cc): "test"
+ DEBUG](../main/main.cc): null
+[INPUT](../main/input/input.cc): "test"
+ DEBUG](../main/main.cc): null
+[INPUT](../main/input/input.cc): "hi"
+[INPUT](../main/input/input.cc): "hi"
+[INFO ](../main/main.cc): AIMAIN INIT
+[INFO ](../main/main.cc): Starting threads
+[INFO ](../main/main.cc): All threads started
+[INFO ](../main/input/input.cc): Begin
+[INPUT](../main/input/input.cc): "test"
+[INPUT](../main/input/input.cc): "test"
+[INFO ](../main/main.cc): AIMAIN INIT
+[INFO ](../main/main.cc): Starting threads
+[INFO ](../main/main.cc): All threads started
+[INFO ](../main/input/input.cc): Begin
+[INPUT](../main/input/input.cc): "test"
+[DEBUG](../main/main.cc): null
+[INPUT](../main/input/input.cc): "hello"
+[DEBUG](../main/main.cc): null
+[INPUT](../main/input/input.cc): "hi"
+[DEBUG](../main/main.cc): null
+[INPUT](../main/input/input.cc): "1"
+[DEBUG](../main/main.cc): null
+[INPUT](../main/input/input.cc): "2"
+[DEBUG](../main/main.cc): null
+[INPUT](../main/input/input.cc): "3"
+[DEBUG](../main/main.cc): null
+[INPUT](../main/input/input.cc): "t e s t i n"
+[DEBUG](../main/main.cc): null
+[INPUT](../main/input/input.cc): "g"
+[DEBUG](../main/main.cc): null
+[INPUT](../main/input/input.cc): "1"
+[DEBUG](../main/main.cc): null
+[INPUT](../main/input/input.cc): "2"
+[INPUT](../main/input/input.cc): "2"
+[INFO ](../main/main.cc): AIMAIN INIT
+[INFO ](../main/main.cc): Starting threads
+[INFO ](../main/main.cc): All threads started
+[INFO ](../main/input/input.cc): Begin
+[INPUT](../main/input/input.cc): "exit"
+[INFO ](../main/main.cc): SHUTDOWN
+[INFO ](../main/input/input.cc): Killing
+[INFO ](../main/main.cc): DONE
+
+
+[INFO ](../main/main.cc): AIMAIN INIT
+[INFO ](../main/main.cc): Starting threads
+[INFO ](../main/main.cc): All threads started
+[INFO ](../main/input/input.cc): Begin
+[DINPUT](../main/input/input.cc): "exit"
+[DINPUT](../main/input/input.cc): "exit"
+[INFO ](../main/main.cc): AIMAIN INIT
+[INFO ](../main/main.cc): Starting threads
+[INFO ](../main/main.cc): All threads started
+[INFO ](../main/input/input.cc): Begin
+[INPUT](../main/input/input.cc): "test"
+[INPUT](../main/input/input.cc): "test"
+[INFO ](../main/main.cc): AIMAIN INIT
+[INFO ](../main/main.cc): Starting threads
+[INFO ](../main/main.cc): All threads started
+[INFO ](../main/input/input.cc): Begin
+[IDEBUG](../main/main.cc): Subject: null
+[IDEBUG](../main/main.cc): Subject: null
+[INFO ](../main/main.cc): AIMAIN INIT
+[INFO ](../main/main.cc): Starting threads
+[INFO ](../main/main.cc): All threads started
+[INFO ](../main/input/input.cc): Begin
+[DEBUG](../main/main.cc): Subject: null
+[DEBUG](../main/main.cc): Subject: null
+[INPUT](../main/input/input.cc): "test"
+[INFO ](../main/main.cc): AIMAIN INIT
+[INFO ](../main/main.cc): Starting threads
+[INFO ](../main/main.cc): All threads started
+[INFO ](../main/input/input.cc): Begin
+[IDEBUG](../main/main.cc): Subject: N/A
+[IDEBUG](../main/main.cc): Subject: N/A
+[INFO ](../main/main.cc): AIMAIN INIT
+[INFO ](../main/main.cc): Starting threads
+[INFO ](../main/main.cc): All threads started
+[INFO ](../main/input/input.cc): Begin
+[INPUT](../main/input/input.cc): "test"
+[INPUT](../main/input/input.cc): "1"
+[INPUT](../main/input/input.cc): "2"
+[INPUT](../main/input/input.cc): "3"
+[INPUT](../main/input/input.cc): "exit"
+[INPUT](../main/input/input.cc): "exit"
+[INFO ](../main/main.cc): AIMAIN INIT
+[INFO ](../main/main.cc): Starting threads
+[INFO ](../main/main.cc): All threads started
+[INFO ](../main/input/input.cc): Begin
+[INPUT](../main/input/input.cc): "test"
+[INPUT](../main/input/input.cc): "1"
+[INPUT](../main/input/input.cc): "2"
+[INPUT](../main/input/input.cc): "3"
+[INPUT](../main/input/input.cc): "4"
+[INPUT](../main/input/input.cc): "5"
+[INPUT](../main/input/input.cc): "6"
+[INPUT](../main/input/input.cc): "7"
+[INPUT](../main/input/input.cc): "8"
+[INPUT](../main/input/input.cc): "9"
+[INPUT](../main/input/input.cc): "exit"
+[INFO ](../main/main.cc): SHUTDOWN
+[INFO ](../main/input/input.cc): Killing
+[INFO ](../main/main.cc): DONE
+
+
+[INFO ](../main/main.cc): AIMAIN INIT
+[INFO ](../main/main.cc): Starting threads
+[INFO ](../main/main.cc): All threads started
+[INFO ](../main/input/input.cc): Begin
+[INPUT](../main/input/input.cc): "exit"
+[INFO ](../main/main.cc): AIMAIN INIT
+[INFO ](../main/main.cc): Starting threads
+[INFO ](../main/main.cc): All threads started
+[INFO ](../main/input/input.cc): Begin
+[INPUT](../main/input/input.cc): "exit"
+[INPUT](../main/input/input.cc): "exit"
+[INPUT](../main/input/input.cc): "exit"
+[INPUT](../main/input/input.cc): "exit"
+CLOSING LOG FILE[INFO ](../main/main.cc): AIMAIN INIT
+[INFO ](../main/main.cc): Starting threads
+[INFO ](../main/main.cc): All threads started
+[INFO ](../main/input/input.cc): Begin
+[INPUT](../main/input/input.cc): "exit"
+[INPUT](../main/input/input.cc): "exit"
+[INFO ](../main/main.cc): AIMAIN INIT
+[INFO ](../main/main.cc): Starting threads
+[INFO ](../main/main.cc): All threads started
+[INFO ](../main/input/input.cc): Begin
+[INPUT](../main/input/input.cc): "exit"
+[INFO ](../main/main.cc): SHUTDOWN
+[INFO ](../main/input/input.cc): Killing
+[INFO ](../main/output/output.cc): Closing log file
+[INFO ](../main/main.cc): DONE
+
+
+[INFO ](../main/main.cc): AIMAIN INIT
+[INFO ](../main/main.cc): Starting threads
+[INFO ](../main/main.cc): All threads started
+[INFO ](../main/input/input.cc): Begin
+[INPUT](../main/input/input.cc): "exit"
+[INFO ](../main/main.cc): SHUTDOWN
+[INFO ](../main/input/input.cc): Killing
+[INFO ](../main/main.cc): DONE
+
+
+[INFO ](../main/output/output.cc): Closing log file
+[INFO ](../main/main.cc): 
+
+AIMAIN INIT
+[INFO ](../main/main.cc): Starting threads
+[INFO ](../main/main.cc): All threads started
+[INFO ](../main/input/input.cc): Begin
+[INPUT](../main/input/input.cc): "exit"
+[INPUT](../main/input/input.cc): "exit"
+[INPUT](../main/input/input.cc): "exit"
+[INFO ](../main/main.cc): SHUTDOWN
+[INFO ](../main/input/input.cc): Killing
+[INFO ](../main/main.cc): DONE
+[INFO ](../main/output/output.cc): Closing log file
+[INFO ](../main/main.cc): 
+
+AIMAIN INIT
+[INFO ](../main/main.cc): Starting threads
+[INFO ](../main/main.cc): All threads started
+[INFO ](../main/input/input.cc): Begin
+[INPUT](../main/input/input.cc): "hello"
+[INPUT](../main/input/input.cc): "how are you?"
+[INPUT](../main/input/input.cc): "testing 12"
+[INPUT](../main/input/input.cc): "does this segfault?"
+[INPUT](../main/input/input.cc): "now?"
+[INPUT](../main/input/input.cc): "1234"
+[INPUT](../main/input/input.cc): "1"
+[INPUT](../main/input/input.cc): "2"
+[INPUT](../main/input/input.cc): "3"
+[INPUT](../main/input/input.cc): "4"
+[INPUT](../main/input/input.cc): "5"
+[INPUT](../main/input/input.cc): "6"
+[INPUT](../main/input/input.cc): "7"
+[INPUT](../main/input/input.cc): "8"
+[INPUT](../main/input/input.cc): "9"
+[INPUT](../main/input/input.cc): "10"
+[INPUT](../main/input/input.cc): "11"
+[INPUT](../main/input/input.cc): "12"
+[INPUT](../main/input/input.cc): "13"
+[INPUT](../main/input/input.cc): "14"
+[INPUT](../main/input/input.cc): "15"
+[INPUT](../main/input/input.cc): "16"
+[INPUT](../main/input/input.cc): "17"
+[INPUT](../main/input/input.cc): "18"
+[INPUT](../main/input/input.cc): "19"
+[INPUT](../main/input/input.cc): "20"
+[INPUT](../main/input/input.cc): "looks good"
+[INPUT](../main/input/input.cc): "now does it exit?"
+[INPUT](../main/input/input.cc): "exit"
+[INFO ](../main/main.cc): SHUTDOWN
+[INFO ](../main/input/input.cc): Killing
+[INFO ](../main/main.cc): DONE
+[INFO ](../main/output/output.cc): Closing log file
+[INFO ](../main/main.cc): 
+
+AIMAIN INIT
+[INFO ](../main/main.cc): Starting threads
+[INFO ](../main/main.cc): All threads started
+[INFO ](../main/input/input.cc): Begin
+[IDEBUG](../main/main.cc): Subject: N/A
+                                      [IDEBUG](../main/main.cc): Subject: N/A
+                                      [INPUT](../main/input/input.cc): "is this the subject?"
+[DEBUG](../main/main.cc): Subject: N/A
+[IINPUT].../main/input/input.cc): "test"
+ this sentence talking about?"
+                                        [IINPUT].../main/input/input.cc): "test"
+ this sentence talking about?"
+                                        [INFO ](../main/main.cc): 
+
+AIMAIN INIT
+[INFO ](../main/main.cc): Starting threads
+[INFO ](../main/main.cc): All threads started
+[INFO ](../main/input/input.cc): Begin
+[INPUT](../main/input/input.cc): "test"
+[INPUT](../main/input/input.cc): "test"
+[INFO ](../main/main.cc): 
+
+AIMAIN INIT
+[INFO ](../main/main.cc): Starting threads
+[INFO ](../main/main.cc): All threads started
+[INFO ](../main/input/input.cc): Begin
+[IINFO ](../main/conscious/conscious.cc): Subject: N/A
+[IINFO ](../main/conscious/conscious.cc): Subject: N/A
+[INFO ](../main/main.cc): 
+
+AIMAIN INIT
+[INFO ](../main/main.cc): Starting threads
+[INFO ](../main/main.cc): All threads started
+[INFO ](../main/input/input.cc): Begin
+[INPUT](../main/input/input.cc): "anything"
+[INFO ](../main/conscious/conscious.cc): Subject: N/A
+[INPUT](../main/input/input.cc): "test"
+[INPUT](../main/input/input.cc): "test"
+[INFO ](../main/main.cc): 
+
+AIMAIN INIT
+[INFO ](../main/main.cc): Starting threads
+[INFO ](../main/main.cc): All threads started
+[INFO ](../main/input/input.cc): Begin
+[INPUT](../main/input/input.cc): "hellop"
+[INPUT](../main/input/input.cc): "world"
+[INPUT](../main/input/input.cc): "testing"
+[INPUT](../main/input/input.cc): "12"
+[INPUT](../main/input/input.cc): "3"
+[INPUT](../main/input/input.cc): "4"
+[INPUT](../main/input/input.cc): "5"
+[INPUT](../main/input/input.cc): "6"
+[INPUT](../main/input/input.cc): "789"
+[INPUT](../main/input/input.cc): "2319["
+[INPUT](../main/input/input.cc): "exit"
+[INPUT](../main/input/input.cc): "exit"
+[INFO ](../main/main.cc): SHUTDOWN
+[INFO ](../main/input/input.cc): Killing
+[INFO ](../main/main.cc): DONE
+[INFO ](../main/output/output.cc): Closing log file

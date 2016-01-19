@@ -4,6 +4,7 @@
 
 #include "output/output.h"
 #include "input/input.h"
+#include "conscious/conscious.h"
 #include <iostream>
 #include <thread>
 #include <ctime>

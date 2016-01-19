@@ -1,0 +1,25 @@
+[INFO ](../main/main.cc): Starting threads
+[INFO ](../main/main.cc): All threads started
+[INFO ](../main/input/input.cc): Begin
+[INPUT](../main/input/input.cc): "1"
+[INPUT](../main/input/input.cc): "2"
+[INFO ](../main/main.cc): Starting threads
+[INFO ](../main/main.cc): All threads started
+[INFO ](../main/input/input.cc): Begin
+[INPUT](../main/input/input.cc): "1"
+[INPUT](../main/input/input.cc): "2"
+[INFO ](../main/main.cc): Starting threads
+[INFO ](../main/main.cc): All threads started
+[INFO ](../main/input/input.cc): Begin
+[INPUT](../main/input/input.cc): "1"
+[INPUT](../main/input/input.cc): "2"
+[INFO ](../main/main.cc): Starting threads
+[INFO ](../main/main.cc): All threads started
+[INFO ](../main/input/input.cc): Begin
+[INPUT](../main/input/input.cc): "test"
+[INFO ](../main/main.cc): AIMAIN INIT
+[INFO ](../main/main.cc): Starting threads
+[INFO ](../main/main.cc): All threads started
+[INFO ](../main/input/input.cc): Begin
+[DEBUG](../main/main.cc): null
+[DEBUG](../main/main.cc): null

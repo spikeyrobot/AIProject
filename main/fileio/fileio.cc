@@ -5,9 +5,15 @@ void fileio::open(std::string loc, bool append) {
   if (append)
     file.open(loc, std::ios::out | std::ios::app);
   else {
-    if(std::remove(loc.c_str()) !=0) {
-      std::cout << "Error deleting log file, Appending" << std::endl;
+    try {
+      file.open(loc, std::ios::out);
+    } catch (int e) {
+      if(std::remove(loc.c_str())!=0) {
+        std::cout << "Error clearing log file. Appending" << std::endl;
+      }
     }
+    if(fileio::isOpen(loc))
+      fileio::close(loc);
     file.open(loc, std::ios::out | std::ios::app);
   }
 }
@@ -19,17 +25,19 @@ bool fileio::isOpen(std::string loc) {
 }
 
 
-void fileio::write(std::string loc, std::string msg) {
+void fileio::write(std::string loc, std::string msg, bool append) {
   if(!fileio::isOpen(loc))
-    fileio::open(loc);
+    fileio::open(loc, append);
   file.seekp(std::ios::end);
   file << msg;
+  fileio::close(loc);
 }
-void fileio::write(std::string loc, const char* msg) {
+void fileio::write(std::string loc, const char* msg, bool append) {
   if(!fileio::isOpen(loc))
-    fileio::open(loc);
+    fileio::open(loc, append);
   file.seekp(std::ios::end);
-  file << file << msg;
+  file << msg;
+  fileio::close(loc);
 }
 
 const char* fileio::readLine(std::string loc, uint32_t linenum) {

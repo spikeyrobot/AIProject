@@ -26,14 +26,16 @@ void* aimain::input::waitForInput() {
   std::string inputarray;
   while (aimain::input::keepAlive()) {
     std::cout << std::flush;
-    std::cin >> inputarray;
-    if(inputarray.c_str() != ""  && inputarray.c_str() != "\n") {
+    char inputchararray[MAX_INPUT_SIZE];
+    std::cin.getline(inputchararray,MAX_INPUT_SIZE);
+    inputarray = inputchararray;
+    if(inputarray != ""  && inputarray != "\n") {
+      aimain::input::stripUnicode(inputarray);
       aimain::input::setAvailable(true);
       aimain::input::setInputArray(inputarray);
       output::LOG(__FILE__, INPUT, "\"" + inputarray + "\"");
-    } else {
-      inputarray = "";
     }
+    inputarray = "";
   }
   output::LOG(__FILE__, INFO, "End");
 }
@@ -49,4 +51,16 @@ bool aimain::input::keepAlive() {
 void aimain::input::killProcess() {
   output::LOG(__FILE__, INFO, "Killing");
   keepAlive_ = false;
+}
+
+bool aimain::input::invalidChar(char c) {
+  bool invalid = !(c>=0 && c<128); 
+  if(invalid) {
+    output::LOG(__FILE__, WARN, "Invalid character: " + c);
+  }
+  return invalid;
+}
+void aimain::input::stripUnicode(std::string & str) 
+{ 
+  str.erase(std::remove_if(str.begin(),str.end(), aimain::input::invalidChar), str.end());  
 }
