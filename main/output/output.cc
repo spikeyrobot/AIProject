@@ -3,7 +3,13 @@
 std::string buffer[BUFFER_SIZE];
 int last = -1;
 int first = -1;
+
 namespace aimain {
+  // Formats the log messages and will eventually be structured to use a buffer but
+  //  I've been having issues with that so idk if that will happen. For now it writes
+  //  the formated log messages to the log file.
+  // All cout messages are for debugging. Obviously can't write these errors to a file
+  //  because the error would occur while trying to write the same error to the same file.
   void output::LOG(const char* name, std::string level, std::string message) {
     // std::cout << "["<< level << "](" << name << "): " << message << std::endl;
     int next = last+1;
@@ -39,14 +45,21 @@ namespace aimain {
       std::cout << "ERR3 "<< first << next<< last << std::endl;
       return;
     }
+
+    // Add the message to the buffer
     buffer[next] = "[" + level + "](" + name + "): " + message + "\n";
     last=next;
     first++;
     if(first>=BUFFER_SIZE)
       first=0;
+
+    // Write the next message in the buffer to the file then clear this location
+    //  in the buffer
     fileio::write("output.log", buffer[first], true);
     buffer[first] = "";
   }
+
+  // Allows main to close the file without instantiating fileio
   void output::close(std::string loc) {
     output::LOG(__FILE__, INFO, "Closing log file");
     fileio::close(loc);

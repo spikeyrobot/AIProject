@@ -584,3 +584,28 @@ AIMAIN INIT
 [INFO ](../main/input/input.cc): Killing
 [INFO ](../main/main.cc): DONE
 [INFO ](../main/output/output.cc): Closing log file
+[INFO ](../main/main.cc): 
+
+AIMAIN INIT
+[INFO ](../main/main.cc): Starting threads
+[INFO ](../main/main.cc): All threads started
+[INFO ](../main/input/input.cc): Begin
+[INPUT](../main/input/input.cc): "hello"
+[INPUT](../main/input/input.cc): "why"
+[INPUT](../main/input/input.cc): "does "
+[INPUT](../main/input/input.cc): "this "
+[INPUT](../main/input/input.cc): "worrk"
+[INPUT](../main/input/input.cc): "but sometimes not"
+[INPUT](../main/input/input.cc): "exit"
+[INPUT](../main/input/input.cc): "exit"
+[INPUT](../main/input/input.cc): "plus this^"
+[INPUT](../main/input/input.cc): "should work"
+[INPUT](../main/input/input.cc): "exit"
+[INPUT](../main/input/input.cc): "exit"
+[INPUT](../main/input/input.cc): "exit"
+[INPUT](../main/input/input.cc): "exit"
+[INPUT](../main/input/input.cc): "exit"
+[INPUT](../main/input/input.cc): "exit"
+[INPUT](../main/input/input.cc): "exit"
+[INPUT](../main/input/input.cc): "exit"
+[INPUT](../main/input/input.cc): "exit"

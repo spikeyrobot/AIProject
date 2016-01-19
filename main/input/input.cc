@@ -20,15 +20,22 @@ bool aimain::input::isAvailable() {
   return newAvailable;
 }
 
+// Main process. Meant to be run as detatched thread
 void* aimain::input::waitForInput() {
   output::LOG(__FILE__, INFO, "Begin");
   aimain::input::setAvailable(false);
   std::string inputarray;
+
   while (aimain::input::keepAlive()) {
     std::cout << std::flush;
     char inputchararray[MAX_INPUT_SIZE];
+    
+    // Wait for user input and save it in inputchararray
     std::cin.getline(inputchararray,MAX_INPUT_SIZE);
+
+    // Converts char array to std::string
     inputarray = inputchararray;
+
     if(inputarray != ""  && inputarray != "\n") {
       aimain::input::stripUnicode(inputarray);
       aimain::input::setAvailable(true);
@@ -40,6 +47,8 @@ void* aimain::input::waitForInput() {
   output::LOG(__FILE__, INFO, "End");
 }
 
+// Returns the latest/current saved string and
+//  
 const char* aimain::input::getNext() {
   aimain::input::setAvailable(false);
   return aimain::input::getInputArray();
