@@ -1,3 +1,5 @@
+This did not get anywhere and has been abandoned. Like I said, it was a feeble attempt :P
+
 # AIProject
 My feeble attempt at a program that can interpret the meaning of sentences and respond to them.
 
