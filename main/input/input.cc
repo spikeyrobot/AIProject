@@ -40,7 +40,7 @@ void* aimain::input::waitForInput() {
       aimain::input::stripUnicode(inputarray);
       aimain::input::setAvailable(true);
       aimain::input::setInputArray(inputarray);
-      output::LOG(__FILE__, INPUT, "\"" + inputarray + "\"");
+      output::LOG("", INPUT, "\"" + inputarray + "\"");
     }
     inputarray = "";
   }
@@ -58,7 +58,7 @@ bool aimain::input::keepAlive() {
   return keepAlive_;
 }
 void aimain::input::killProcess() {
-  output::LOG(__FILE__, INFO, "Killing");
+  output::LOG(__FILE__, INFO, "SHUTDOWN");
   keepAlive_ = false;
 }
 
